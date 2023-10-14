@@ -1,0 +1,26 @@
+.weather_wrapper {
+    background-color: #7A956b;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.weather_header {
+    display: flex;
+}
+
+.weather_main{
+    width: 200px;
+}
+
+.weather {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.icon {
+    width: 100px;
+    height: 100px;
+}
